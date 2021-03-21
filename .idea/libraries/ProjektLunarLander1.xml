@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProjektLunarLander1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Klient_jar/ProjektLunarLander.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
